@@ -3,7 +3,7 @@ The keybindings I use in sublime text to maximize my productivity
 
 
  ```
- [
+[
   { "keys": ["alt+a"], "command": "move_to", "args": {"to": "bol", "extend": false} },
   { "keys": ["alt+e"], "command": "move_to", "args": {"to": "eol", "extend": false} },
   { "keys": ["shift+alt+a"], "command": "move_to", "args": {"to": "bol", "extend": true} },
@@ -21,6 +21,8 @@ The keybindings I use in sublime text to maximize my productivity
   { "keys": ["alt+shift+u"], "command": "move", "args": {"by": "lines", "forward": false, "extend": true} },
   { "keys": ["alt+shift+d"], "command": "move", "args": {"by": "lines", "forward": true, "extend": true} },
   { "keys": ["ctrl+alt+u"], "command": "swap_line_up" },
-  { "keys": ["ctrl+alt+d"], "command": "swap_line_down" }
+  { "keys": ["ctrl+alt+d"], "command": "swap_line_down" },
+  { "keys": ["ctrl+tab"], "command": "next_view" },
+  { "keys": ["ctrl+shift+tab"], "command": "prev_view" }
 ]
 ```
