@@ -24,7 +24,8 @@ The keybindings I use in sublime text to maximize my productivity
   { "keys": ["ctrl+alt+d"], "command": "swap_line_down" },
   { "keys": ["ctrl+tab"], "command": "next_view" },
   { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
-  { "keys": ["alt'+n"], "command": "scroll_lines", "args": {"amount": 1.0 } },
-  { "keys": ["alt+m"], "command": "scroll_lines", "args": {"amount": -1.0 } }
+  { "keys": ["alt+n"], "command": "scroll_lines", "args": {"amount": 1.0 } },
+  { "keys": ["alt+m"], "command": "scroll_lines", "args": {"amount": -1.0 } },
+  { "keys": ["ctrl+alt+w"], "command": "close_all" }
 ]
 ```
