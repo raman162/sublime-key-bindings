@@ -1,4 +1,57 @@
-# sublime-key-bindings
+# Sublime Preferences
+
+## sublime-user-setttings
+
+```
+{
+	"added_words":
+	[
+		"lightheadedness",
+		"Angiotensin",
+		"carvedilol",
+		"succinate",
+		"bisoprolol",
+		"aldosterone",
+		"Hydralazine",
+		"Warfarin",
+		"warfarin",
+		"afib",
+		"hydralazine",
+		"nirtrate",
+		"dyspnea",
+		"affordability",
+		"Bp",
+		"multimorbidity",
+		"comorbidities",
+		"dropdown",
+		"timedoc",
+		"valign",
+		"javascript",
+		"js",
+		"admin",
+		"sms",
+		"meth"
+	],
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"Wks",
+		"meds",
+		"nokogiri",
+		"regexes"
+	],
+	"spell_check": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
+}
+
+```
+
+## sublime-key-bindings
 The keybindings I use in sublime text to maximize my productivity
 
 
